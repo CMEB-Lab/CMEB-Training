@@ -13,3 +13,13 @@ This repository is a central hub for bioinformatics training and resources for s
 ## Chatbot Coaching
 
 We have developed a [Perplexity Space](https://www.perplexity.ai/spaces/cmeb-training-EdNgSGUKSZqfrI5iqc6vBw) for AI-assistance and interactive learning to guide you on your bioinformatics jouney. You do not need to sign up to perplexity to use the bot, but doing so will allow you to add the Space to your acount so that you can easily access it later.
+
+
+## Introduction to Biology
+
+If you are a beginner in biology, or just want a refresher, check out our [introduction to biology](Introduction-to-Biology) section.
+
+
+## Introduction to Coding
+
+If you are a beginner in coding, or just want a refresher, check out our [introduction to coding](Introduction-to-Coding) section.
