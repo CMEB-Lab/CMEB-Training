@@ -9,10 +9,12 @@ Additionally, as individuals from each of these backgrounds (BMS / EE) can equal
 
 This repository is a central hub for bioinformatics training and resources for students and researchers from across diverse backgrounds. Whether you’re a student or researcher you’ll find valuable information, tutorials, and insights to help you navigate the complex field.
 
+When beginning in bioinformatics, there is a bit of a learning curve that may seem daunting initially as you need to be familiar with the fundamentals of both biology and computer science. In fact, it is often the case that no matter which one of these backgrounds an individual has, they often feel intimidated by the other topic. However, no matter how complex these topics can be at the extremes, the basics required for bioinformatics are easily accessible for the vast majority of students. In fact it’s often the case that people just don’t know where to begin. In this training resource, we cover the absolute essential information from each of these fields assuming no prior knowledge of the subjects. In this way, no matter your background, you will be able to start making meaningful progress towards understanding bioinformatics.
 
 ## Chatbot Coaching
 
 We have developed a [Perplexity Space](https://www.perplexity.ai/spaces/cmeb-training-EdNgSGUKSZqfrI5iqc6vBw) for AI-assistance and interactive learning to guide you on your bioinformatics jouney. You do not need to sign up to perplexity to use the bot, but doing so will allow you to add the Space to your acount so that you can easily access it later.
+
 
 
 ## Introduction to Biology
