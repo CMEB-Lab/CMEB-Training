@@ -15,6 +15,7 @@ When beginning in bioinformatics, there is a bit of a learning curve that may se
 
 We have developed a [Perplexity Space](https://www.perplexity.ai/spaces/cmeb-training-EdNgSGUKSZqfrI5iqc6vBw) for AI-assistance and interactive learning to guide you on your bioinformatics jouney. You do not need to sign up to perplexity to use the bot, but doing so will allow you to add the Space to your acount so that you can easily access it later.
 
+Alternatively, we also have a bot on [Poe](https://poe.com/CMEB-Training) if you would rather use that platform.
 
 
 ## Introduction to Biology
