@@ -14,4 +14,4 @@ This section we will cover how to analyse microarray data. Although this data ty
 
 ### RNA Sequencing Analysis
 
-This section we will provide a simple [introduction to RNA Seq analysis.](Introductory-Analyses/introductory-rna-seq-tutorial)
+This section we will provide a simple [introduction to RNA Seq analysis].
