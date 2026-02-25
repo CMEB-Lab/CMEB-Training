@@ -30,3 +30,7 @@ If you are a beginner in coding, or just want a refresher, check out our [introd
 ## Introductory Analyses
 
 This [introductory analysis section](Introductory-Analyses) contains a few tutorials to get you started working with biological data. We have also collected some tutorials that we have vetted and recommend.
+
+## Perplexity Generated Training & Competencies
+
+This [directory](perplexity-generated-training) aims to provide introductory material for 'core competencies' in bioinformatics - that is to say key skills that are of general value to those wishing to work in the field. These were generated with perplexity AI and have not been vetted multiple times by various individuals - therefore there is a chance there may be errors. Please use with caution.
