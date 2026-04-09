@@ -24,15 +24,18 @@ This repository is a central hub for bioinformatics training and resources for s
 
 ## 🤖 Chatbot Coaching
 
-AI-assistance and interactive learning to guide you on your bioinformatics jouney!
+AI-assistance and interactive learning to guide you on your bioinformatics journey!
+
+We recommend using **POE** !
 
 | Platform | Link |
 |---|---|
+| Poe Bot (Recommended) | [CMEB-Training on Poe](https://poe.com/CMEB-Training) |
 | Perplexity Space | [CMEB Training Space](https://www.perplexity.ai/spaces/cmeb-training-EdNgSGUKSZqfrI5iqc6vBw) |
-| Poe Bot | [CMEB-Training on Poe](https://poe.com/CMEB-Training) |
 
 > [!NOTE]
-> You do not need to sign up to Perplexity to use the bot, but doing so will allow you to add the Space to your account so that you can easily access it later.
+> You do not need to sign up to Perplexity/POE to use the bot, but doing so will allow you to add the Space to your account so that you can easily access it later.
+
 
 
 ---
